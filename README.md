@@ -2,34 +2,34 @@
 
 ## Project Overview
 
-This project explores the transition of Uber's data labelling services from a pilot initiative to full-scale operations for third-party businesses, focusing on project management, data governance, privacy, security, and operational readiness.
+This project examines the transition of Uber's data labelling services from internal operations to full-scale services for third-party businesses, focusing on project management, data governance, privacy, security, and Business As Usual (BAU) handover.
 
 ## Objectives
 
-- Evaluate the challenges of scaling data labelling services.
+- Evaluate challenges in scaling data labelling services.
 - Develop strategies for data privacy, security, and quality assurance.
-- Analyse project handover and transition to Business As Usual (BAU).
-- Explore AI applications to improve data labelling and quality monitoring.
+- Analyse project handover and operational readiness.
+- Explore AI applications to improve data labelling and project management processes.
 
 ## Methodologies & Frameworks
 
 - CRISP-DM
-- Agile Scrum
-- DataOps & DevOps
+- Agile Project Management
+- Agile Governance
 - PMBOK
 
 ## AI Applications Explored
 
-- AI-assisted privacy screening
-- Generative AI for annotation guideline development
-- AI-based quality monitoring and anomaly detection
+- AI-assisted data intake classification and risk identification.
+- AI-powered annotation quality assurance.
+- Generative AI for project reporting and BAU readiness monitoring.
 
 ## Key Skills
 
 - Business Analytics Project Management
 - Data Governance & Privacy
+- AI & Generative AI Applications
 - Risk Management
 - Stakeholder Management
-- AI & Generative AI Applications
 - Quality Assurance
-- Operational Planning
+- Operational Planning & BAU Transition
